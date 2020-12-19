@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdaUlker&&show_icons=true&theme=radical&line_height=27&v=5" alt="EdaUlker's GitHub Stats" /><br>
+  <a href="https://github.com/EdaUlker"><img title="EdaUlker" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdaUlker&layout=compact"></a><br>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/EdaUlker/count.svg" />
+</p>
+
 <!--
 **EdaUlker/EdaUlker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
